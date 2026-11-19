@@ -6,8 +6,9 @@
 
 - [当前任务.md](当前任务.md)：当前唯一任务指针。
 - [历次任务书](任务书/README.md)：按版本保存的任务书。
-- [当前任务书：V6.8.6 定点纠错](任务书/V6.8.6_定点纠错任务书.md)。
-- [直接下载当前任务书（Markdown）](https://raw.githubusercontent.com/r3v01nter/Cultivation-Fantasy/main/%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%BF%83/%E4%BB%BB%E5%8A%A1%E4%B9%A6/V6.8.6_%E5%AE%9A%E7%82%B9%E7%BA%A0%E9%94%99%E4%BB%BB%E5%8A%A1%E4%B9%A6.md)。
+- **当前任务书：V6.8.7 复审与一致性修订**
+- [GitHub在线阅读](任务中心/任务书/V6.8.7_复审与一致性修订任务书.md)
+- [直接下载当前任务书（Markdown）](https://raw.githubusercontent.com/r3v01nter/Cultivation-Fantasy/main/%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%BF%83/%E4%BB%BB%E5%8A%A1%E4%B9%A6/V6.8.7_%E5%A4%8D%E5%AE%A1%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7%E4%BF%AE%E8%AE%A2%E4%BB%BB%E5%8A%A1%E4%B9%A6.md)
 
 ## 固定协作流程
 
