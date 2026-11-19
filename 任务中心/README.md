@@ -8,7 +8,7 @@
 - [历次任务书](任务书/README.md)：按版本保存的任务书。
 - **当前任务书：V6.8.8 一致性复审与未决事项隔离**
 - [GitHub在线阅读](任务书/V6.8.8_一致性复审与未决事项隔离任务书.md)
-- [直接下载当前任务书（Markdown）](https://raw.githubusercontent.com/r3v01nter/Cultivation-Fantasy/main/%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%BF%83/%E4%BB%BB%E5%8A%A1%E4%B9%A6/V6.8.8_%E4%B8%80%E8%87%B4%E6%80%A7%E5%A4%8D%E5%AE%A1%E4%B8%8E%E6%9C%AA%E5%86%B3%E4%BA%8B%E9%A1%B9%E9%9A%94%E7%A6%BB%E4%BB%BB务书.md)
+- [直接下载当前任务书（Markdown）](https://raw.githubusercontent.com/r3v01nter/Cultivation-Fantasy/main/%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%BF%83/%E4%BB%BB%E5%8A%A1%E4%B9%A6/V6.8.8_%E4%B8%80%E8%87%B4%E6%80%A7%E5%A4%8D%E5%AE%A1%E4%B8%8E%E6%9C%AA%E5%86%B3%E4%BA%8B%E9%A1%B9%E9%9A%94%E7%A6%BB%E4%BB%BB%E5%8A%A1%E4%B9%A6.md)
 
 ## 固定协作流程
 
